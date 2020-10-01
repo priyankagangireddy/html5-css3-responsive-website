@@ -12,6 +12,9 @@ body{
     margin:auto;
     overflow: hidden;
 }
+img{
+    width: 100%; /*Makes Responsive Images */
+}
 
 .button_1{
     height: 38px;
